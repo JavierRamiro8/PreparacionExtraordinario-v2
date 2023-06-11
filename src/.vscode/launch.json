@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainAparcamiento",
+            "request": "launch",
+            "mainClass": "MainAparcamiento",
+            "projectName": "src_78b2e784"
+        },
+        {
+            "type": "java",
+            "name": "MainCuadradoMagico",
+            "request": "launch",
+            "mainClass": "MainCuadradoMagico",
+            "projectName": "src_78b2e784"
+        },
+        {
+            "type": "java",
+            "name": "MainSudoku",
+            "request": "launch",
+            "mainClass": "MainSudoku",
+            "projectName": "src_78b2e784"
+        },
+        {
+            "type": "java",
+            "name": "mainEjercicioLecturaSumar",
+            "request": "launch",
+            "mainClass": "mainEjercicioLecturaSumar",
+            "projectName": "src_78b2e784"
+        },
+        {
+            "type": "java",
+            "name": "mainEjercicioLecturaSumarAmpliado",
+            "request": "launch",
+            "mainClass": "mainEjercicioLecturaSumarAmpliado",
+            "projectName": "src_78b2e784"
+        }
+    ]
+}
