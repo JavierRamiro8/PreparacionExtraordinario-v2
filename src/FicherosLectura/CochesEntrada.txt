@@ -1,0 +1,2 @@
+COCHE--- matricula: 800420 BXZ -----  Marca y modelo: BMWX3 ---- Largo: 10.0m El precio por el coche es: 50.0 y el coche tiene que pasar la revision en: 6 anios
+COCHE--- matricula: 2345 BZX -----  Marca y modelo: Audi A3 ---- Largo: 10.02m El precio por el coche es: 50.099999999999994 y el coche tiene que pasar la revision en: 3 anios
