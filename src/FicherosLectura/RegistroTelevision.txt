@@ -1,0 +1,7 @@
+nombre descripcion precio Tamanio de Pantalla
+Samsung 2400V 1000.25 euros  50.2 pulgadas
+LG Mesure 2391.0 euros  100.0 pulgadas
+Xiaomi X45V 330.0 euros  30.0 pulgadas
+Sunstech V400 2030.45 euros  37.5 pulgadas
+Samsung OLED23004 100.0 euros  8.2 pulgadas
+Xiaomi 2300V 300.0 euros  28.0 pulgadas

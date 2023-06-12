@@ -1,0 +1,4 @@
+nombre descripcion precio Tamanio de Almacenamiento
+HP G304 600.0 euros  10.0 pulgadas
+Lenovo Gen2 600.0 euros  500.0 pulgadas
+Toshiba GT404 200.0 euros  15.0 pulgadas

@@ -1,0 +1,3 @@
+nombre descripcion precio Tamanio de Almacenamiento
+Samsung A34 200.34 euros  250.0 pulgadas
+Xiaomi Redmi Note 9T 500.0 euros  500.0 pulgadas
